@@ -81,8 +81,8 @@
             "qtVersion": 6
         }
     },
-    "name": "obs-plugintemplate",
-    "version": "1.0.0",
-    "author": "Your Name Here",
-    "email": "me@mymailhost.com"
+    "name": "obs-2DCharacter",
+    "version": "0.1.0",
+    "author": "LB Bear",
+    "email": "LBBear@outlook.com"
 }
